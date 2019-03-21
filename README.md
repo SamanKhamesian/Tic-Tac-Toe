@@ -1,4 +1,4 @@
-# Evolution of No-loss Strategies for the Game of Tic-Tac-Toe
+# Tic-Tac-Toe
 
 ### Abstract
 

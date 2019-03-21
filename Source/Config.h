@@ -1,0 +1,8 @@
+#define INPUT_PATH "base_matrix.txt"
+#define BOARD_SIZE 9
+#define INDIVIDUAL_SIZE 765
+
+#define POPULATION_SIZE 16
+#define CROSSOVER_FRACTION 0.85
+#define MUTATION_FRACTION 0.03
+#define GENERATIONS 50

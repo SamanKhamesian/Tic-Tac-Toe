@@ -2,7 +2,7 @@
 
 ### Abstract
 
-The game of Tic-Tac-Toe is one of the most commonly known games. This game does not allow one to win all the time and a significant proportion of games played results in a draw. Thus, the best a player can hope is to not lose the game. [This paper](https://www.iitk.ac.in/kangal/papers/k2007002.pdf) is aimed at evolving a number of no-loss strategies using genetic algorithms and comparing them with existing methodologies. This project is an implementation of this tecnique.
+The game of Tic-Tac-Toe is one of the most commonly known games. This game does not allow one to win all the time and a significant proportion of games played results in a draw. Thus, the best a player can hope is to not lose the game. [This paper](https://www.iitk.ac.in/kangal/papers/k2007002.pdf) is aimed at evolving a number of no-loss strategies using genetic algorithms and comparing them with existing methodologies. This project is an implementation of this technique.
 
 ##
 
